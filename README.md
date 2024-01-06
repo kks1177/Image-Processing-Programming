@@ -10,7 +10,7 @@ Embedded-System-MiniProject
 ## 개발 기간
 
 
-### 개발 멤버 구성
+### 멤버 구성
 
 
 ### 개발 환경
